@@ -1,0 +1,7 @@
+#cover {
+    background: url('/media/bg0.PNG') no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
